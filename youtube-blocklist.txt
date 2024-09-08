@@ -6,3 +6,5 @@ youtubei.googleapis.com
 youtube.googleapis.com
 www.youtube-nocookie.com
 youtu.be
+ytimg.com
+googleapis.com
